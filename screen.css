@@ -70,19 +70,7 @@ h1 {
   margin: 0.67em 0;
 }
 
-/
-/**
- * Add the correct font size in all browsers.
- */
 
-small {
-  font-size: 80%;
-}
-
-/**
- * Prevent `sub` and `sup` elements from affecting the line height in
- * all browsers.
- */
 
 sub,
 sup {
@@ -170,3 +158,4 @@ body {
   input[type=text]:focus {
 	  border: 3px solid #555;
 }
+
